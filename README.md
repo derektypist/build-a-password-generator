@@ -1,6 +1,6 @@
 # Build A Password Generator
 
-Learn Regular Expressions by Building a Password Generator
+Learn Regular Expressions by Building a Password Generator.
 
 ## Technologies
 
